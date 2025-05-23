@@ -29,26 +29,7 @@ The workshop provides a platform to share experimental and theoretical results, 
 
 ## 🔬 Topics of Interest
 
-Given the broad categorization of NeSy AI systems, we welcome papers that propose applications and engineering research in various domains, including (but not limited to):
-
-- Neuro-Symbolic integration application in cybersecurity
-- Neuro-Symbolic integration and intelligent agents
-- Neuro-Symbolic integration and intelligent networked systems
-- Neuro-Symbolic integration application in healthcare
-- Neuro-Symbolic integration and large language models
-- Neuro-Symbolic integration application in robotics
-- Neuro-Symbolic integration application in computer vision
-- Neuro-Symbolic integration for planning
-- Neuro-Symbolic integration for programming (e.g., program synthesis)
-- Symbolic knowledge extraction (SKE) or injection (SKI)
-- Theorem proving via Neuro-Symbolic integration
-- Automated reasoning via Neuro-Symbolic integration
-- AI trustworthiness (explainable, fair, etc.) via Neuro-Symbolic integration
-- Symbolic regression via Neuro-Symbolic integration
-- Inductive logic programming via Neuro-Symbolic integration
-
-__Twin communities:__ We also welcome contributions from twin communities leveraging different nomenclature for similar concepts, such as informed-machine learning, symbolic knowledge extraction or injection, etc.
-
+__TBD__
 
 ## 📝 Reviewing Format
 

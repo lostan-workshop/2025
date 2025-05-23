@@ -43,11 +43,11 @@ title: "Committee"
         </td>
     </tr>
     <tr>
-        <td> TU Delft, The Netherlands </td>
-        <td> TU Delft, The Netherlands </td>
+        <td> Spienza University of Rome, Italy </td>
+        <td> University of Urbino, Italy </td>
         <td> University of Bologna, Italy </td>
-        <td> TU Delft, The Netherlands </td>
-        <td> KU Leuven, Belgium </td>
+        <td> University of Bologna, Italy </td>
+        <td> York University, Canada </td>
     </tr>
  </table>
 
