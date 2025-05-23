@@ -17,7 +17,7 @@ The workshop provides a platform to share experimental and theoretical results, 
 
 3. __Survey papers__, concerning any of the above. Survey papers should be limited to __14 pages__ _(excluding references)_.
 
-❗ Preliminary or already-published work can be submitted, provided that the submission is clearly marked as such. ❗ 
+❗ Preliminary or already-published work can be submitted, provided that the submission is clearly marked as such. ❗
 
 ## 📋 Submission Guidelines
 
@@ -33,24 +33,28 @@ __TBD__
 
 ## 📝 Reviewing Format
 
-LoStaN follows a 2-phase reviewing process:
-1. Each submission will undergo a traditional double-blind review process. This phase applies to all papers, regardless of type, and will determine the final acceptance or rejection decision. 
-2. The second phase occurs during and after the workshop: accepted contributions are presented (as posters) at the workshop, and authors may collect further comments and insights. After that, authors who are willing to publish their contribution to the workshop proceedings will be requested to produce a final version of the paper, addressing the reviewers’ suggestions and possibly integrating comments and insights from the workshop.
+Each submission will undergo a traditional single-blind review process.
+This phase applies to all papers, regardless of type, and will determine the final acceptance or rejection decision.
+
+Accepted contributions are presented at the workshop, and authors may collect further comments and insights.
+
+After that, authors who are willing to publish their contribution to the workshop proceedings will be requested to produce a final version of the paper, addressing the reviewers’ suggestions and possibly integrating comments and insights from the workshop.
 
 All papers will undergo the standard assessment in which reviewers will be asked to consider the submission focusing on its:
 - __scope__: is the paper on-topic w.r.t. the workshop’s track or theme?
-- __significance__: is the idea proposed in the paper meaningful for the NeSy community? Are the results relevant?
+- __significance__: is the idea proposed in the paper meaningful for the LoStaN community? Are the results relevant?
 - __soundness__: is the approach proposed in the paper correct and robust? Are experiments (if any) well-designed?
 - __clarity__: is the paper clear and well organized? Is the discussion complete?
 - __contextualization__: is relevant background and related literature being adequately referenced?
 - __novelty__: is the contribution novel either from a conceptual or technical perspective?
-- __practical__ applicability: is the proposed idea applicable in practice? Can it scale? Do the authors provide convincing evidence?
 
-Furthermore, the reviews will take into account the specific characteristics of the submitted contributions to obtain their final decision. For example, submissions proposing novel software will receive a score depending also on the quality of the shared software. Similarly, demo papers will receive a score depending on the usability and utility of the tool under demonstration.
+Furthermore, the reviews will take into account the specific characteristics of the submitted contributions
+(see submission types above)
+to obtain their final decision.
 
-## 📖 Proceedings 
+## 📖 Proceedings
 
 The workshop will publish its own proceedings onto Scopus-indexed repositories, such as [CEUR-WS](https://ceur-ws.org/).
 
-❗ __Important note:__ Accepted papers will be included in the workshop proceedings __only if__ the authors explicitly agree to do so. 
+❗ __Important note:__ Accepted papers will be included in the workshop proceedings __only if__ the authors explicitly agree to do so.
 In this way, works which are not mature enough for publication, as well as works which have already been published elsewhere can be presented and discussed at the workshop.
