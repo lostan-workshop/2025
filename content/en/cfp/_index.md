@@ -29,7 +29,37 @@ The workshop provides a platform to share experimental and theoretical results, 
 
 ## 🔬 Topics of Interest
 
-__TBD__
+We welcome contributions on theoretical foundations, practical applications, and interdisciplinary approaches combining symbolic, statistical, and neural methods in AI. Topics of interest include, but are not limited to:
+
+- Neuro-symbolic integration and hybrid AI systems
+
+- Explainable AI (XAI) and interpretable machine learning
+
+- Logic-based knowledge representation and reasoning
+
+- Statistical relational learning and probabilistic logic
+
+- Learning symbolic representations from data
+
+- Inductive Logic Programming (ILP) and relational learning
+
+- Causal reasoning and logic-based causal discovery
+
+- Fairness, accountability, and transparency in hybrid AI systems
+
+- Logic and learning for multi-agent systems
+
+- Human-centric AI: reasoning, learning, and interaction
+
+- Deep learning and knowledge extraction
+
+- Formal methods for the verification of neural networks
+
+- Benchmarking and evaluation of hybrid AI systems
+
+- Applications in robotics, natural language understanding, bioinformatics, etc.
+
+- Toolkits and platforms for integrating logic, statistics, and neural networks
 
 ## 📝 Reviewing Format
 

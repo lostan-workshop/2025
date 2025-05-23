@@ -18,13 +18,13 @@ __TBD__
 
 ## Important Dates
 
-- Paper submission deadline: __TBD__
+- Paper submission deadline: July 11, 2025
 
-- Author Notification: __TBD__
+- Author Notification: July 25, 2025
 
 - Web-site Camera-ready Submission: __TBD__
 
-- Workshop Date: __TBD__
+- Workshop Date: September 1-2, 2025
 
 - \[Optional\] Proceedings Camera-ready Submission: __TBD__
 
