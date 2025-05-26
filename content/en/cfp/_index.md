@@ -31,9 +31,11 @@ The workshop provides a platform to share experimental and theoretical results, 
 
 We welcome contributions on theoretical foundations, practical applications, and interdisciplinary approaches combining symbolic, statistical, and neural methods in AI. Topics of interest include, but are not limited to:
 
-- Neuro-symbolic integration and hybrid AI systems
+- Integration of logic and statistics into machine learning models
 
 - Explainable AI (XAI) and interpretable machine learning
+
+- Symbolic knoweldge extraction and injection from/into machine learning models 
 
 - Logic-based knowledge representation and reasoning
 
@@ -44,6 +46,8 @@ We welcome contributions on theoretical foundations, practical applications, and
 - Inductive Logic Programming (ILP) and relational learning
 
 - Causal reasoning and logic-based causal discovery
+
+- Neuro-symbolic integration and hybrid AI systems
 
 - Fairness, accountability, and transparency in hybrid AI systems
 
