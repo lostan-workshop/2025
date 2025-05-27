@@ -11,9 +11,9 @@ __Authors are invited to submit original papers in PDF format to the [submission
 
 The workshop provides a platform to share experimental and theoretical results, present artefacts, demos and datasets, as well as broad discussion or survey papers. Therefore, LoStaN invites researchers and practitioners to submit the following types of contribution:
 
-1. __Full__ or __short__ papers about NeSy approaches, emphasising practical aspects, applications, or applicability to real-world problems. Full papers should be limited to __14 pages__, while short papers should be limited to __7 pages__ _(excluding references)_.
+1. __Full__ or __short__ papers about approaches involving logic, statistical and neural models, emphasising practical aspects, applications, or applicability to real-world problems. Full papers should be limited to __14 pages__, while short papers should be limited to __7 pages__ _(excluding references)_.
 
-2. __Position papers__ concerning NeSy applications in specific fields. Position papers should be limited to __7 pages__ _(excluding references)_.
+2. __Position papers__ concerning the application of logic, statistical and neural models in specific fields. Position papers should be limited to __7 pages__ _(excluding references)_.
 
 3. __Survey papers__, concerning any of the above. Survey papers should be limited to __14 pages__ _(excluding references)_.
 
@@ -37,7 +37,7 @@ We welcome contributions on theoretical foundations, practical applications, and
 
 - Symbolic knoweldge extraction and injection from/into machine learning models 
 
-- Logic-based knowledge representation and reasoning
+- Neuro-symbolig approaches to reasoning and planning
 
 - Statistical relational learning and probabilistic logic
 
