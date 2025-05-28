@@ -6,16 +6,14 @@ title: "Important Dates"
 ---
 
 ### Paper submission deadline ###
-🚨 11th July, 2025, AoE
+🚨 July 11th, 2025, AoE
 
 ### Author Notification ###
-📬 25th, 2025, AoE
-
-### Web-site Camera-ready Submission ###
-🚨 __TBD__, 2025, AoE
+📬 July 25th, 2025, AoE
 
 ### Workshop Date ###
-🔈 __TBD__, 2025, __GET__
+🔈 __TBD__, in any case between September 1st and 5th, 2025, __GET__
+- main conference dates: <https://viam.science.tsu.ge/jelia2025/dates>
 
-### \[Optional\] Proceedings Camera-ready Submission ###
-📷 __TBD__, 2025, AoE
+### Camera-ready Submission ###
+🚨 __TBD__, in any case _after the workshop_, and only for authors who are willing to publish their paper in post-preceedings.

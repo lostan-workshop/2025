@@ -5,15 +5,18 @@ title: "Call for Papers"
 #     weight: 10
 ---
 
-__Authors are invited to submit original papers in PDF format to the [submission website](https://easychair.org/my/conference?conf=lostan2025).__
+__Authors are invited to submit original papers in PDF format to the submission website (TBD).__
 
 ## 📃 Submission Type
 
-The workshop provides a platform to share experimental and theoretical results, present artefacts, demos and datasets, as well as broad discussion or survey papers. Therefore, LoStaN invites researchers and practitioners to submit the following types of contribution:
+The workshop provides a platform to share experimental and theoretical results, present artefacts, demos and datasets, as well as broad discussion or survey papers. 
+Therefore, LoStaN invites researchers and practitioners to submit the following types of contribution:
 
-1. __Full__ or __short__ papers about approaches involving logic, statistical and neural models, emphasising practical aspects, applications, or applicability to real-world problems. Full papers should be limited to __14 pages__, while short papers should be limited to __7 pages__ _(excluding references)_.
+1. __Full__ or __short__ papers about approaches involving logic, statistical and neural models, and their combination/integration. 
+Full papers should be limited to __14 pages__, while short papers should be limited to __7 pages__ _(excluding references)_.
 
-2. __Position papers__ concerning the application of logic, statistical and neural models in specific fields. Position papers should be limited to __7 pages__ _(excluding references)_.
+2. __Position papers__ concerning the application of logic, statistical and neural models in specific fields. 
+Position papers should be limited to __7 pages__ _(excluding references)_.
 
 3. __Survey papers__, concerning any of the above. Survey papers should be limited to __14 pages__ _(excluding references)_.
 
@@ -21,23 +24,24 @@ The workshop provides a platform to share experimental and theoretical results, 
 
 ## 📋 Submission Guidelines
 
-- Submissions should be in [__standard Springer LNCS style__]( https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines);
+- Submissions should be in [__CEUR Workshop Proceedings__ style](https://it.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw);
 - Submissions must be exported in __PDF format__;
 - _Camera-ready_ versions shall include the LaTeX __source files__;
-- Submissions are not anonymous.
+- Submissions are *not* anonymous __(single-blind)__.
 
 
 ## 🔬 Topics of Interest
 
-We welcome contributions on theoretical foundations, practical applications, and interdisciplinary approaches combining symbolic, statistical, and neural methods in AI. Topics of interest include, but are not limited to:
+We welcome contributions on theoretical foundations, practical applications, and interdisciplinary approaches combining symbolic, statistical, and neural methods in AI. 
+Topics of interest include, but are not limited to:
 
 - Integration of logic and statistics into machine learning models
 
-- Explainable AI (XAI) and interpretable machine learning
+- Explainable AI (XAI) and interpretable machine learning via symbolic methods
 
 - Symbolic knoweldge extraction and injection from/into machine learning models 
 
-- Neuro-symbolig approaches to reasoning and planning
+- Neuro-symbolig approaches to AI
 
 - Statistical relational learning and probabilistic logic
 
@@ -72,7 +76,8 @@ This phase applies to all papers, regardless of type, and will determine the fin
 
 Accepted contributions are presented at the workshop, and authors may collect further comments and insights.
 
-After that, authors who are willing to publish their contribution to the workshop proceedings will be requested to produce a final version of the paper, addressing the reviewers’ suggestions and possibly integrating comments and insights from the workshop.
+After that, authors who are willing to publish their contribution to the workshop proceedings will be requested to produce a final version of the paper, 
+addressing the reviewers’ suggestions and possibly integrating comments and insights from the workshop.
 
 All papers will undergo the standard assessment in which reviewers will be asked to consider the submission focusing on its:
 - __scope__: is the paper on-topic w.r.t. the workshop’s track or theme?
@@ -92,3 +97,8 @@ The workshop will publish its own proceedings onto Scopus-indexed repositories, 
 
 ❗ __Important note:__ Accepted papers will be included in the workshop proceedings __only if__ the authors explicitly agree to do so.
 In this way, works which are not mature enough for publication, as well as works which have already been published elsewhere can be presented and discussed at the workshop.
+
+## 📖 Special Issue
+
+A selection of the best papers presented at the workshop will be invited to submit an extended version to a special issue in a journal (TBD).
+We are negotiating with several journals, and we will update this page as soon as we have more information.
