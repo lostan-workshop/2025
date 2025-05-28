@@ -6,10 +6,10 @@ title: "Important Dates"
 ---
 
 ### Paper submission deadline ###
-🚨 __TBD__, 2025, AoE
+🚨 11th July, 2025, AoE
 
 ### Author Notification ###
-📬 __TBD__, 2025, AoE
+📬 25th, 2025, AoE
 
 ### Web-site Camera-ready Submission ###
 🚨 __TBD__, 2025, AoE
