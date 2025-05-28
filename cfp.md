@@ -56,8 +56,8 @@ Full papers should be limited to __14 pages__, while short papers should be limi
 Position papers should be limited to __7 pages__ _(excluding references)_.
 
 3. __Survey papers__, concerning any of the above. Survey papers should be limited to __14 pages__ _(excluding references)_.
-
-Preliminary or already-published work can be submitted, provided that the submission is clearly marked as such.
+ 
+4. __Extended abstracts__, providing an overview of recently published papers regarding the workshop topics. Extended abstract should be limited to __3 pages__ _(excluding references)_.
 
 ## Relevant topics
 
