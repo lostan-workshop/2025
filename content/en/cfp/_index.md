@@ -5,7 +5,9 @@ title: "Call for Papers"
 #     weight: 10
 ---
 
-__Authors are invited to submit original papers in PDF format to the submission website (TBD).__
+__Authors are invited to submit original papers in PDF format to [LoStaN 2025](https://lostan-workshop.github.io/2025).__
+
+__Further information will be available on the [CFP page](https://lostan-workshop.github.io/2025/cfp) soon.__
 
 ## 📃 Submission Type
 
