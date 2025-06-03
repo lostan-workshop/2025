@@ -43,7 +43,9 @@ with the aim to energize this interdisciplinary space, promote collaboration bet
 
 ## Submission site
 
-Authors are invited to submit original papers in PDF format to the submission website (TBD).
+Authors are invited to submit original papers in PDF format to ___[link to OpenReview to be defined]___.
+
+Further information will be available on the [CFP page](https://lostan-workshop.github.io/2025/cfp) soon.
 
 ## Submission Types
 
