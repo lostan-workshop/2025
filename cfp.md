@@ -43,7 +43,7 @@ with the aim to energize this interdisciplinary space, promote collaboration bet
 
 ## Submission site
 
-Authors are invited to submit original papers in PDF format to ___[link to OpenReview to be defined]___.
+Authors are invited to submit original papers in PDF format [here](https://openreview.net/group?id=JELIA/2025/Workshop/LoStaN).
 
 Further information will be available on the [CFP page](https://lostan-workshop.github.io/2025/cfp) soon.
 

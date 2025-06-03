@@ -5,7 +5,7 @@ title: "Call for Papers"
 #     weight: 10
 ---
 
-__Authors are invited to submit original papers in PDF format to _[link to OpenReview to be defined]_.__
+__Authors are invited to submit original papers in PDF format to [here](https://openreview.net/group?id=JELIA/2025/Workshop/LoStaN).__
 
 __Further information will be available on the [CFP page](https://lostan-workshop.github.io/2025/cfp) soon.__
 
