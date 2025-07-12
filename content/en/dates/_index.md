@@ -6,10 +6,10 @@ title: "Important Dates"
 ---
 
 ### Paper submission deadline ###
-🚨 July 11th, 2025, AoE
+🚨 July ~~11th~~ **20th**, 2025, AoE
 
 ### Author Notification ###
-📬 July 25th, 2025, AoE
+📬 July ~~25th~~ **30th**, 2025, AoE
 
 ### Workshop Date ###
 🔈 __TBD__, in any case between September 1st and 5th, 2025, __GET__
