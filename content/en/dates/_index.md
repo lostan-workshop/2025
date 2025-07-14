@@ -12,7 +12,8 @@ title: "Important Dates"
 📬 July ~~25th~~ **30th**, 2025, AoE
 
 ### Workshop Date ###
-🔈 __TBD__, in any case between September 1st and 5th, 2025, __GET__
+🔈 September 2nd, 2025, __GET__
+- The registration will also include the conference social events on September 3rd, 2025 (excursion + dinner)
 - main conference dates: <https://viam.science.tsu.ge/jelia2025/dates>
 
 ### Camera-ready Submission ###
